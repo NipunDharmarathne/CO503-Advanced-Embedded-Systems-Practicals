@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable>
+  <columns>
+   <connections preferredWidth="191" />
+   <irq preferredWidth="34" />
+   <name preferredWidth="179" />
+  </columns>
+ </systemtable>
+ <clocktable>
+  <columns>
+   <clockname preferredWidth="134" />
+   <clocksource preferredWidth="134" />
+   <frequency preferredWidth="115" />
+  </columns>
+ </clocktable>
+ <window width="1382" height="744" x="-8" y="-8" />
+ <library expandedCategories="Library/Embedded Processors,Library,Project" />
+</preferences>
